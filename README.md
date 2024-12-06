@@ -1,3 +1,7 @@
+## The project context and objective are explained in the pdf. <br>
+
+Donations-who-to-call-in-2023.pdf
+
 ## Before running the main.py file, **unzip the folder located in data**. <br>
 
 Running main.py starts the datacleaning-trainingwithcampaign2022-generatingtheleadsfor2023
